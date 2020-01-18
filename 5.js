@@ -13,7 +13,7 @@ function sequence(x,y){
       
           	arr.push(x); 
         }
-      	console.log(arr);
+      	console.log('array:' +' [' + arr + ']');
       	console.log(arr.length);
       
     }
