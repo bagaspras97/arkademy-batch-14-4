@@ -5,7 +5,7 @@ function cetak_gambar(number){
   if (reg.test(number) && number%dua === 1){
     var panjang = number;
       console.log("--- panjang ---")
-     for(i=1; i<=10; i++){
+     for(i=1; i<=panjang; i++){
        for(dua; i<=dua; i++){
          console.log("*  =   =   =  *")
 //          console.log(i)
