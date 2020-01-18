@@ -16,7 +16,6 @@ function cetak_gambar(number){
          console.log("*  =   =   =  *")
 //          console.log(i)
        }
-        console.log("")
      }
   }else{
     console.log("parameter harus angka ganjil")
